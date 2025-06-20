@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+audio/
+models/
+.env
+
